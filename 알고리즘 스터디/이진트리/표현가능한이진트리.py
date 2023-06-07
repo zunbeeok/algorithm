@@ -81,4 +81,4 @@ def solution(numbers):
             answer.append(0)
     return answer
 
-f(x) -> 2 ** floor(log(x)+1) -1
+# f(x) -> 2 ** floor(log(x)+1) -1
